@@ -1,0 +1,10 @@
+{
+  "require": {
+    "alek13/slack": "^1.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lametric\\": "src/"
+    }
+  }
+}
